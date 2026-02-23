@@ -12,3 +12,5 @@ git checkout master 	- возврат в ветку master
 git commit -m "newTest_4"
 
 Test5
+
+111111111111111111111111
