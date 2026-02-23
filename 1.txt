@@ -5,3 +5,8 @@ Test2
 Make comimit Step2
 
 Test3
+Вернулись в ветку master
+git branch	- проверка в какой ветке
+
+git checkout master 	- возврат в ветку master
+git commit -m "newTest_4"
