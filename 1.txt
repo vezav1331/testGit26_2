@@ -1,1 +1,4 @@
 Begin Test1
+Make comimit Step1
+
+Test2
