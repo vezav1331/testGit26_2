@@ -2,3 +2,6 @@ Begin Test1
 Make comimit Step1
 
 Test2
+Make comimit Step2
+
+Test3
